@@ -5,7 +5,7 @@
 #include "Header1.h"
 int main()
 {
-    int a, b;
+    int a, b , c;
     std::cout << "Hello";
 }
 
