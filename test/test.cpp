@@ -2,9 +2,10 @@
 //
 
 #include <iostream>
-
+#include "Header1.h"
 int main()
 {
+    int a, b;
     std::cout << "Hello";
 }
 
