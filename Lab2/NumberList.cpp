@@ -18,7 +18,13 @@ void NumberList::Sort()
 			if (numbers[i] > numbers[j])
 			{
 				numbers[i] += numbers[j];
-				numbers[j] = numbers[i] - numbers[j];
+				numbers[j] = numbers[i] - numbers[
 				numbers[i] -= numbers[j];
 			}
+}
+
+void NumberList::Print()
+{
+	for (int i = 0; i < count; i++)
+		
 }
