@@ -2,18 +2,11 @@
 //
 
 #include <iostream>
-#include "Student.h"
+#include "NumberList.h"
 using namespace std;
-
-double Student::classAverage = 0;
 int main()
 {
-    Student a;
-    Student b;
-
-    a.SetGrade(7);
-    a.SetNamte("Ion Popescu");
-    cout << a.GetName();
+   
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
