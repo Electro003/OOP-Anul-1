@@ -1,12 +1,19 @@
-// test.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Lab2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
+#include "Student.h"
+using namespace std;
+
+double Student::classAverage = 0;
 int main()
 {
-    int a, b, c, d;
-    //i am still worthy
-    std::cout << "Hello";
+    Student a;
+    Student b;
+
+    a.SetGrade(7);
+    a.SetNamte("Ion Popescu");
+    cout << a.GetName();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
