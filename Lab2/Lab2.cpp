@@ -1,12 +1,16 @@
 // Lab2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include <iostream>
 #include "NumberList.h"
-using namespace std;
 int main()
 {
-   
+	NumberList n;
+	n.Init();
+	n.Add(3);
+	n.Add(1);
+	n.Add(6);
+	n.Sort();
+	n.Print();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
