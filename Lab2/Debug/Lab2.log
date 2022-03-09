@@ -1,8 +1,2 @@
 ﻿  Lab3.cpp
-  Math.cpp
-C:\Users\Teodor\source\repos\test.github\Lab2\Math.cpp(10,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\Teodor\source\repos\test.github\Lab2\Math.cpp(13,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\Teodor\source\repos\test.github\Lab2\Math.cpp(22,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\Teodor\source\repos\test.github\Lab2\Math.cpp(25,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  Generating Code...
   Lab2.vcxproj -> C:\Users\Teodor\source\repos\test.github\Lab2\Debug\Lab2.exe

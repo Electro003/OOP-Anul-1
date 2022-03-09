@@ -26,5 +26,18 @@ int Math::Mul(double x, double y, double z){
 }
 
 int Math::Add(int count, ...) {
-	return 0;
+	int suma = 0;
+	va_list lista;
+	va_start(lista, count);
+	for (int i = 0; i < count; i++)
+		suma += va_arg(lista, int);
+	va_end(lista);
+	return suma;
+}
+char* Add(const char* s1, const char* s2) {
+
+	if (s1 == nullptr || s2 == nullptr)
+		return nullptr;
+	const char* s3 = new const char;
+
 }

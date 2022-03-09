@@ -2,11 +2,13 @@
 //
 
 #include <iostream>
-#include <stdarg.h>
+#include "Math.h";
 using namespace std;
+
 int main()
 {
-	cout << "Ana are mere";
+	cout<<
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
