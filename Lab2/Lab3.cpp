@@ -3,11 +3,27 @@
 
 #include <iostream>
 #include "Math.h";
+
 using namespace std;
 
 int main()
 {
-	cout<<
+	Math obiect1;
+	cout<<obiect1.Add(1, 2)<<'\n';
+	cout << obiect1.Add(1, 2,3) << '\n';
+	cout << obiect1.Add(1.1, 2.2) << '\n';
+	cout << obiect1.Add(1.1, 2.2 ,3.3) << '\n';
+	cout << obiect1.Add(5,1,2,3,4,5) << '\n';
+	cout << obiect1.Mul(1, 2) << '\n';
+	cout << obiect1.Mul(1, 2,3) << '\n';
+	cout << obiect1.Mul(1.1, 2.2) << '\n';
+	cout << obiect1.Mul(1.1, 2.2 ,3.3) << '\n';
+	cout << obiect1.Add("Ciresica are mere ", "Ciresel vine si cere");
+	
+
+	
+
+	
 	return 0;
 }
 
