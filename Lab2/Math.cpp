@@ -38,7 +38,7 @@ char* Math::Add(const char* s1, const char* s2) {
 
 	if (s1 == nullptr || s2 == nullptr)
 		return nullptr;
-	char* s3 = new char [8];
+	char* s3 = new char [strlen(s1)+strlen(s2)+1];
 	strcpy(s3, s1);
 	strcat(s3, s2);
 	return s3;
