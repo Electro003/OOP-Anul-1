@@ -1,10 +1,12 @@
 // Lab2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-
+#include <iostream>
+#include <stdarg.h>
+using namespace std;
 int main()
 {
-	
+	cout << "Ana are mere";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
