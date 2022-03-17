@@ -19,11 +19,7 @@ int main()
 	cout << obiect1.Mul(1.1, 2.2) << '\n';
 	cout << obiect1.Mul(1.1, 2.2 ,3.3) << '\n';
 	cout << obiect1.Add("Ciresica are mere ", "Ciresel vine si cere");
-	
 
-	
-
-	
 	return 0;
 }
 
