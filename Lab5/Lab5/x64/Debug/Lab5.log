@@ -1,0 +1,7 @@
+﻿  Lab5.cpp
+  Number.cpp
+C:\Users\Teodor\source\repos\test.github\Lab5\Lab5\Number.cpp(6,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Teodor\source\repos\test.github\Lab5\Lab5\Number.cpp(103,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Teodor\source\repos\test.github\Lab5\Lab5\Number.cpp(121,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Lab5.vcxproj -> C:\Users\Teodor\source\repos\test.github\Lab5\x64\Debug\Lab5.exe
