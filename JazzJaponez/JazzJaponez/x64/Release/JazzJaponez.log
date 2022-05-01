@@ -1,0 +1,11 @@
+﻿  Adunare.cpp
+  Calculator.cpp
+  Impartire.cpp
+  Inmultire.cpp
+  JazzJaponez.cpp
+  Scadere.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  JazzJaponez.vcxproj -> C:\Users\Teodor\source\repos\test.github\JazzJaponez\x64\Release\JazzJaponez.exe

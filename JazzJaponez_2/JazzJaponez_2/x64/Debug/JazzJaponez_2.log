@@ -1,0 +1,11 @@
+﻿  Adunare.cpp
+  Calculator.cpp
+  Inmpartire.cpp
+  Inmultire.cpp
+  JazzJaponez_2.cpp
+  Oper.cpp
+  Scadere.cpp
+  Generating Code...
+JazzJaponez_2.obj : error LNK2019: unresolved external symbol "public: __cdecl Calculator::operator int(void)" (??BCalculator@@QEAAHXZ) referenced in function main
+JazzJaponez_2.obj : error LNK2019: unresolved external symbol "public: void __cdecl Calculator::Compute(int,int)" (?Compute@Calculator@@QEAAXHH@Z) referenced in function main
+C:\Users\Teodor\source\repos\test.github\JazzJaponez_2\x64\Debug\JazzJaponez_2.exe : fatal error LNK1120: 2 unresolved externals

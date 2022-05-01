@@ -1,0 +1,4 @@
+﻿  Lab7.cpp
+C:\Users\Teodor\source\repos\test.github\Lab7\Lab7\Lab7.cpp(18,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Teodor\source\repos\test.github\Lab7\Lab7\Lab7.cpp(20,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Lab7.vcxproj -> C:\Users\Teodor\source\repos\test.github\Lab7\x64\Debug\Lab7.exe
